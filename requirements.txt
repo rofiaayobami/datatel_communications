@@ -1,0 +1,17 @@
+# Data Generation & Terminal Utilities
+faker
+tqdm
+
+# Core Data Processing & Environment Management
+pandas
+numpy
+python-dotenv
+
+# Database Connectivity (PostgreSQL Driver)
+psycopg2-binary
+
+# Apache Airflow Core & Cross-Platform Provider Packages
+apache-airflow
+apache-airflow-providers-common-sql
+apache-airflow-providers-postgres
+apache-airflow-providers-google
